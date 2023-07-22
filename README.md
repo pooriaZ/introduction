@@ -41,4 +41,4 @@ I'm a C# enthusiast and therefore I've always tried to learn C# and its framewor
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=poori-z&show_icons=true&locale=en" alt="pooriaZ" /></p>
 ---
-[![](https://visitcount.itsvg.in/api?id=pooriaZ&icon=2&color=9)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Introduction&icon=2&color=9)](https://visitcount.itsvg.in)
